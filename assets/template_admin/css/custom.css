@@ -1,0 +1,48 @@
+.kt-menu__item--active a {
+    background-color: #5D78FC !important;
+}
+
+.kt-menu__item--active a i {
+    color: white !important;
+}
+
+.help-block.error {
+    color: #ff6374 !important;
+}
+
+.hide {
+    display: none !important;
+}
+
+.custom-file {
+    width: 300px;
+}
+
+.btn-floating {
+    position: fixed;
+    left: 50%;
+    z-index: 100000;
+    bottom: 30px
+}
+
+.hidden {
+    display: none !important;
+}
+
+.thumbnail-preview {
+    display: inline-block;
+}
+
+.thumbnail-uploaded {
+    display: inline-block;
+}
+
+.cloned-thumbnail {
+    float: left;
+    margin-right: 1em;
+    margin-top: 1em;
+}
+
+.remove-thumbnail {
+    display: block;
+}

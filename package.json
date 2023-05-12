@@ -1,0 +1,33 @@
+{
+  "name": "fantasy-online",
+  "version": "1.0.0",
+  "description": "redesign website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mahendrawardana@bitbucket.org/mahendrawardana/asuransi-allianz.git"
+  },
+  "keywords": [
+    "asuransi",
+    "allianz"
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-qunit": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-watch": "*",
+    "matchdep": "*"
+  },
+  "author": "Mahendra Wardana",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/mahendrawardana/asuransi-allianz#readme",
+  "dependencies": {
+    "sweetalert2": "^9.17.1"
+  }
+}
